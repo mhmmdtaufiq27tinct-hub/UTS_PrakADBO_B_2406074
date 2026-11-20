@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="H5mT_cnuX6jkuq5u51lY" name="Page-1">
+        <mxGraphModel dx="890" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-2" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#dae8fc;" value="Nama Use Case" vertex="1">
+                    <mxGeometry height="31" width="160" x="220" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-3" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Daftar Kegiatan" vertex="1">
+                    <mxGeometry height="31" width="600" x="380" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-4" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#dae8fc;" value="Aktor" vertex="1">
+                    <mxGeometry height="31" width="160" x="220" y="261" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-5" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Peserta (Mahasiswa, Dosen)" vertex="1">
+                    <mxGeometry height="31" width="600" x="380" y="261" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-6" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#dae8fc;" value="Tujuan" vertex="1">
+                    <mxGeometry height="31" width="160" x="220" y="292" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-7" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Syarat untuk mengikuti kegiatan UKM" vertex="1">
+                    <mxGeometry height="31" width="600" x="380" y="292" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-8" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#dae8fc;" value="Deskripsi" vertex="1">
+                    <mxGeometry height="82" width="160" x="220" y="323" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-9" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Mahasiswa atau Dosen (Calon Peserta) yang ingin mengikuti kegiatan UKM wajib mendaftar terlebih dahulu." vertex="1">
+                    <mxGeometry height="82" width="600" x="380" y="323" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-10" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#dae8fc;align=center;" value="Kegiatan Aktor" vertex="1">
+                    <mxGeometry height="30" width="380" x="220" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-11" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#dae8fc;align=center;" value="Respon Sistem" vertex="1">
+                    <mxGeometry height="30" width="380" x="600" y="405" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-12" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#f5f5f5;" value="Skenario Normal" vertex="1">
+                    <mxGeometry height="26" width="760" x="220" y="435" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-13" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Mendaftar kegiatan UKM (kondisi kuota masih kosong)" vertex="1">
+                    <mxGeometry height="59" width="380" x="220" y="461" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-14" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Sistem akan melakukan pemeriksaan terhadap jumlah kuota yang masih tersedia pada kegiatan UKM yang diajukan, lalu apabila masih terdapat kuota nya, sistem akan mengonfirmasi pendaftaran tersebut." vertex="1">
+                    <mxGeometry height="59" width="380" x="600" y="461" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-15" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Mendaftar kegiatan UKM (kondisi kuota sudah penuh)" vertex="1">
+                    <mxGeometry height="71" width="380" x="220" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-16" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Sistem akan melakukan pemeriksaan terhadap jumlah kouta yang masih tersedia pada kegiatan UKM yang diajukan, lalu apabila sudah penuh, sistem akan menolak pendaftaran dan mengirim notifikasi &quot;Anda tidak dapat pendaftar karena kuota kegiatan sudah penuh&quot;." vertex="1">
+                    <mxGeometry height="71" width="380" x="600" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-17" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Tidak melakukan pendaftaran" vertex="1">
+                    <mxGeometry height="43" width="380" x="220" y="617" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-18" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Tidak melakukan apa-apa, tidak ada aksi dari aktor." vertex="1">
+                    <mxGeometry height="43" width="380" x="600" y="617" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-19" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#f5f5f5;" value="Skenario Alternative" vertex="1">
+                    <mxGeometry height="26" width="760" x="220" y="591" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-30" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;fontStyle=1;fillColor=#f5f5f5;" value="Skenario Akhir" vertex="1">
+                    <mxGeometry height="26" width="760" x="220" y="731" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-31" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="" vertex="1">
+                    <mxGeometry height="43" width="380" x="220" y="757" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ljvi7MxnCTWYGwnHNo63-32" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Pendaftaran tersimpan, menunggu konfirmasi dari pengurus UKM." vertex="1">
+                    <mxGeometry height="43" width="380" x="600" y="757" as="geometry"/>
+                </mxCell>
+                <mxCell id="RUMjUawu4Z4WehsfFg5p-8" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Mendaftar, diterima karena kuota masih ada, tapi ingin membatalkan pendaftarannya." vertex="1">
+                    <mxGeometry height="71" width="380" x="220" y="660" as="geometry"/>
+                </mxCell>
+                <mxCell id="RUMjUawu4Z4WehsfFg5p-9" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=4;fontSize=12;" value="Sistem sudah melakukan pemeriksaan jumlah kuota tersedia, mengonfirmasi pendaftaran, tinggal menunggu validasi pengurus UKM tetapi ada intrup dari usecase batalkan pendaftaran. Sistem akan menghapus pendaftar dari daftar kegiatan." vertex="1">
+                    <mxGeometry height="71" width="380" x="600" y="660" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
